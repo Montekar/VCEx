@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args){
 
-        System.out.println("Change me if younotwt can");
+        System.out.println("Change me if you can wtf");
     }
 }
